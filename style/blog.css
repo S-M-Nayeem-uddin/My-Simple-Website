@@ -1,4 +1,12 @@
+h3{
+    color: green;
+    text-align: center;
+}
 div{
+    color: yellow;
     background-color: tomato;
-    padding: 10px;
+    padding: 15px;
+    margin: 20px;
+    text-align: justify;
+    border-radius: 20px;
 }
